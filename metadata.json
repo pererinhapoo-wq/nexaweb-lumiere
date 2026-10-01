@@ -1,0 +1,6 @@
+{
+  "name": "LUMIÈRE - Estética e Bem-Estar",
+  "description": "Beleza, cuidado e confiança em cada detalhe. Tratamentos personalizados em um ambiente acolhedor e contemporâneo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
